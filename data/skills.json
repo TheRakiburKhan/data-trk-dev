@@ -1,0 +1,8 @@
+[
+  { "name": "Swift Programming", "level": 100 },
+  { "name": "iOS", "level": 90 },
+  { "name": "UIKit", "level": 85 },
+  { "name": "SwiftUI", "level": 80 },
+  { "name": "C Programming", "level": 90 },
+  { "name": "Photoshop", "level": 55 }
+]

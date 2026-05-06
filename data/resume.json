@@ -1,0 +1,62 @@
+{
+  "summary": "Innovative and deadline-driven iOS Developer with almost 3 years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.",
+  "education": [
+    {
+      "degree": "Bachelor in Computer Science &amp; Engineering",
+      "period": "2016 - 2021",
+      "institution": "Daffodil International University, Dhaka, Bangladesh",
+      "description": "Completed my undergraduate on Computer Science &amp; Engineering. My major subject of interest was mobile application development and use of AI."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Engineer (iOS)",
+      "period": "May 2025 - May 2026",
+      "company": "Link My Gear Inc.",
+      "location": "Newark, Deleware, United States",
+      "items": ["Extream sport tracker with physical device and BLE connection"]
+    },
+
+    {
+      "title": "iOS Contractor",
+      "period": "June 2025 - October 2025",
+      "company": "Mr Healer",
+      "location": "Dhaka, Bangladesh",
+      "items": ["Telemedicine and appointment tracker"]
+    },
+
+    {
+      "title": "Senior Software Engineer (iOS)",
+      "period": "July 2022 - June 2024",
+      "company": "Easital Technologies Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "items": [
+        "Mega application with fifteen services included on single app. (UIKit, Stripe)"
+      ]
+    },
+    {
+      "title": "iOS Developer",
+      "period": "July 2021 - July 2022",
+      "company": "NexGen Communications Ltd.",
+      "location": "London, United Kingdom",
+      "items": [
+        "e-Commerce Application with dynamic Home page and Language (Shopware, SwiftUI, SSLCommerz)",
+        "Payment wallet service with custom encryption. (SwiftUI, Stripe)"
+      ]
+    },
+    {
+      "title": "Jr. Software Engineer",
+      "period": "January 2020 - November 2021",
+      "company": "Orange Business Development Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "items": [
+        "e-Commerce application (SwiftUI)",
+        "Developed two govt. projects from ground up (UIKit)",
+        "Microservice mega app (UIKit)",
+        "Worked on a News Portal (UIKit, SwiftUI)",
+        "Developed Learning Management System for kids ground up. (UIKit)",
+        "Mentored intern and supervised 3 projects"
+      ]
+    }
+  ]
+}
